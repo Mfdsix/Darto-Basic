@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "HelloDartVars",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2020-04-10T08:38:56.461563Z",
+  "generator": "pub",
+  "generatorVersion": "2.7.2"
+}
